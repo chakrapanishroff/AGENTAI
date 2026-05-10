@@ -4,9 +4,8 @@ scikit-learn
 matplotlib
 jupyter
 ipykernel
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-groq==0.3.2
 streamlit
-python-dotenv
-statsmodels
-xgboost
-lightgbm
-catboost
+duckduckgo-search
