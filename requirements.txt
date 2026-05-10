@@ -1,6 +1,6 @@
-langchain
-langchain-community
-langchain-groq
+pip>=25.0
+setuptools>=70
+wheel
+langchain==0.3.25
+langchain-groq==0.3.2
 streamlit
-duckduckgo-search
-cffi==1.16.0
